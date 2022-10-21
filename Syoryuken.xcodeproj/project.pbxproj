@@ -13,6 +13,7 @@
 		D78A069A2902299900883CB5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D78A06982902299900883CB5 /* Main.storyboard */; };
 		D78A069C2902299B00883CB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78A069B2902299B00883CB5 /* Assets.xcassets */; };
 		D78A069F2902299B00883CB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D78A069D2902299B00883CB5 /* LaunchScreen.storyboard */; };
+		D78A06A72902365C00883CB5 /* Shoryuken.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D78A06A62902365C00883CB5 /* Shoryuken.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D78A069B2902299B00883CB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D78A069E2902299B00883CB5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D78A06A02902299B00883CB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D78A06A62902365C00883CB5 /* Shoryuken.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Shoryuken.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D78A06922902299900883CB5 /* AppDelegate.swift */,
 				D78A06942902299900883CB5 /* SceneDelegate.swift */,
 				D78A06962902299900883CB5 /* ViewController.swift */,
+				D78A06A62902365C00883CB5 /* Shoryuken.mp3 */,
 				D78A06982902299900883CB5 /* Main.storyboard */,
 				D78A069B2902299B00883CB5 /* Assets.xcassets */,
 				D78A069D2902299B00883CB5 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 				D78A069F2902299B00883CB5 /* LaunchScreen.storyboard in Resources */,
 				D78A069C2902299B00883CB5 /* Assets.xcassets in Resources */,
 				D78A069A2902299900883CB5 /* Main.storyboard in Resources */,
+				D78A06A72902365C00883CB5 /* Shoryuken.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
